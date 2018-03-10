@@ -1,1 +1,0 @@
-pythonw test-render.py
